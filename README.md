@@ -28,3 +28,8 @@ Chargebacks on Paypal: If your chargeback your purchase for OpenOverlay, your Op
 
 Refunds: Refund will only be issued within 7 days of the purchase of OpenOverlay.
 
+# Content Creators:
+
+If you are a content creator, you may be able to get a free copy of OpenOverlay if you mention that you use it in the descriptions of your videos, or your bio in Twitch.
+
+(Note: There is a special version of OpenOverlay for content creators that has built in OBS and Streamlabs integration)
