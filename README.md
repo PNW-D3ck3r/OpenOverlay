@@ -14,7 +14,7 @@ The best part? It's only $4.99 to purchase when it is realeased! (Unless you hav
 
 • The ablilty to display your desktop windows and programs in vr while in-game, you can attach windows anywhere in your playspace, attach the window to your head, or even to your wrist on-top of your wrist overlay!
 
-• Very Optimised, when running Pavlov, Boneworks, and the other big titles it only uses minimal cpu on most modern CPUs.
+• Very Optimised, when running Pavlov, Gorilla Tag, Boneworks, and the other big titles it uses minimal cpu on most modern CPUs.
 
 • Discord Integration, show your friends what games you are playing and what music you are listening to while in VR.
 
