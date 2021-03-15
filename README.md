@@ -18,6 +18,8 @@ The best part? It's only $4.99 to purchase when it is realeased! (Unless you hav
 
 • Discord Integration, show your friends what games you are playing and what music you are listening to while in VR.
 
+• Option to open VR Keyboard, so you can type an interact even more with your displayed desktop windows, whether thats watching Netflix while flying in Elite Dangerous, typing in the name of your favorite album on spotify, or watching YouTube videos when you get bored of talking to someone in VrChat.
+
 • More features to come!
 
 # Purchase:
