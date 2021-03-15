@@ -8,9 +8,9 @@ The best part? It's only $4.99 to purchase when it is realeased! (Unless you hav
 
 • Wrist Overlay: A small, watch-like screen that is shown on your left or right wrist that shows the time, currently playing Spotify song, usage stats, and a cog wheel that when clicked opens the options panel.
 
-• Settings Menu: A phone like menu that allows you to change your theme, color contrast, which wrist the Watch Overlay appears on, and many other options.
+• Settings Menu: A phone like menu that displays the time in the corner, and allows you to change your theme, color contrast, which wrist the Wrist Overlay appears on, and many other options.
 
-• The ability to get notifications on your real life phone, to pop up on your Wrist Overlay when in VR.
+• The ability to get notifications on your real life phone to pop up on your Wrist Overlay when in VR. (Note: must be using Windows 10 for this feature to work, it uses the "My Phone" application on Windows 10)
 
 • The ablilty to display your desktop windows and programs in vr while in-game, you can attach windows anywhere in your playspace, attach the window to your head, or even to your wrist on-top of your wrist overlay!
 
@@ -24,14 +24,14 @@ The best part? It's only $4.99 to purchase when it is realeased! (Unless you hav
 
 # Purchase:
 
-When OpenOverlay is realeased, the only ways to buy it will be through PayPal, or with cryptocurrency. (Etherium and Bitcoin only)
+When OpenOverlay is realeased, the only ways to buy it will be through PayPal, or with cryptocurrency. (Etherium and Bitcoin only, transaction fees must be covered by the customer)
 
-Chargebacks on Paypal: If your chargeback your purchase for OpenOverlay, your OpenOverlay token and product key will be invalidated and your IP Address will be BLACKLISTED from using OpenOverlay.
+Chargebacks on Paypal: If your chargeback your purchase for OpenOverlay, your OpenOverlay token and product key will be invalidated and your IP Address and Hardware ID will be BLACKLISTED from using or buying OpenOverlay.
 
 Refunds: Refund will only be issued within 7 days of the purchase of OpenOverlay.
 
 # Content Creators:
 
-If you are a content creator, you may be able to get a free copy of OpenOverlay if you mention that you use it in the descriptions of your videos, or your bio in Twitch.
+If you are a content creator, you may be able to get a contect creator copy of OpenOverlay if you mention that you use it in the descriptions of your videos, or your bio in Twitch.
 
-(Note: There is a special version of OpenOverlay for content creators that has built in OBS and Streamlabs integration)
+(Note: The content creator version of OpenOverlay has built in OBS and Streamlabs integration)
