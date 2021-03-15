@@ -6,7 +6,7 @@ The best part? It's only $4.99 to purchase when it is realeased! (Unless you hav
 
 # Features:
 
-• Wrist Overlay: A small screen that is shown on your left or right wrist that shows the time, currently playing Spotify song, usage stats, and a cog wheel that when clicked opens the options panel.
+• Wrist Overlay: A small, watch-like screen that is shown on your left or right wrist that shows the time, currently playing Spotify song, usage stats, and a cog wheel that when clicked opens the options panel.
 
 • Settings Menu: A phone like menu that allows you to change your theme, color contrast, which wrist the Watch Overlay appears on, and many other options.
 
