@@ -26,7 +26,7 @@ The best part? It's only $4.99 to purchase when it is realeased! (Unless you hav
 
 When OpenOverlay is realeased, the only ways to buy it will be through PayPal, or with cryptocurrency. (Etherium and Bitcoin only, transaction fees must be covered by the customer)
 
-Chargebacks on Paypal: If your chargeback your purchase for OpenOverlay, your OpenOverlay token and product key will be invalidated and your IP Address and Hardware ID will be BLACKLISTED from using or buying OpenOverlay.
+Chargebacks on Paypal: If your chargeback your purchase for OpenOverlay, your OpenOverlay token and product key will be invalidated and your IP Address and Hardware ID will be BLACKLISTED from using or buying OpenOverlay. You will also be auto-blacklisted if OpenOverlay detects a Hardware ID spoofer.
 
 Refunds: Refund will only be issued within 7 days of the purchase of OpenOverlay.
 
